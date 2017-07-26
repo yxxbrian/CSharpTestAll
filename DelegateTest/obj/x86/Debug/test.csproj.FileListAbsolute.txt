@@ -1,0 +1,10 @@
+d:\documents\visual studio 2010\Projects\TestApplication\test\bin\Debug\test.exe
+d:\documents\visual studio 2010\Projects\TestApplication\test\bin\Debug\test.pdb
+d:\documents\visual studio 2010\Projects\TestApplication\test\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\TestApplication\test\obj\x86\Debug\test.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\TestApplication\test\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\TestApplication\test\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\TestApplication\test\obj\x86\Debug\test.exe
+d:\documents\visual studio 2010\Projects\TestApplication\test\obj\x86\Debug\test.pdb
+d:\Documents\Visual Studio 2010\Projects\TestApplication\test\obj\x86\Debug\test.Form1.resources
+d:\Documents\Visual Studio 2010\Projects\TestApplication\test\obj\x86\Debug\test.Form2.resources

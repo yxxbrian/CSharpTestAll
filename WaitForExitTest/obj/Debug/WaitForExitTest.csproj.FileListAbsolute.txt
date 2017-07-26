@@ -1,0 +1,9 @@
+E:\CSharpProjects\ZHPAT_Test\WaitForExitTest\bin\Debug\WaitForExitTest.exe
+E:\CSharpProjects\ZHPAT_Test\WaitForExitTest\bin\Debug\WaitForExitTest.pdb
+E:\CSharpProjects\ZHPAT_Test\WaitForExitTest\obj\Debug\WaitForExitTest.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\WaitForExitTest\obj\Debug\WaitForExitTest.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\WaitForExitTest\obj\Debug\WaitForExitTest.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\WaitForExitTest\obj\Debug\WaitForExitTest.exe
+E:\CSharpProjects\ZHPAT_Test\WaitForExitTest\obj\Debug\WaitForExitTest.pdb
+E:\CSharpProjects\ZHPAT_Test\WaitForExitTest\bin\Debug\WaitForExitTest.exe.config
+E:\CSharpProjects\ZHPAT_Test\WaitForExitTest\obj\Debug\WaitForExitTest.csprojResolveAssemblyReference.cache

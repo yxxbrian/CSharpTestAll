@@ -1,0 +1,7 @@
+E:\CSharpProjects\ZHPAT_Test\ConfigFileTest\bin\Debug\ConfigFileTest.exe
+E:\CSharpProjects\ZHPAT_Test\ConfigFileTest\bin\Debug\ConfigFileTest.pdb
+E:\CSharpProjects\ZHPAT_Test\ConfigFileTest\obj\Debug\ConfigFileTest.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\ConfigFileTest\obj\Debug\ConfigFileTest.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\ConfigFileTest\obj\Debug\ConfigFileTest.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\ConfigFileTest\obj\Debug\ConfigFileTest.exe
+E:\CSharpProjects\ZHPAT_Test\ConfigFileTest\obj\Debug\ConfigFileTest.pdb

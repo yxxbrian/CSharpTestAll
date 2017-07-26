@@ -1,0 +1,48 @@
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\DragCopyPaste\bin\Debug\DragCopyPaste.exe
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\DragCopyPaste\bin\Debug\DragCopyPaste.pdb
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\DragCopyPaste\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\DragCopyPaste\obj\x86\Debug\DragCopyPaste.Form1.resources
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\DragCopyPaste\obj\x86\Debug\DragCopyPaste.Properties.Resources.resources
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\DragCopyPaste\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\DragCopyPaste\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\DragCopyPaste\obj\x86\Debug\DragCopyPaste.exe
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\DragCopyPaste\obj\x86\Debug\DragCopyPaste.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\DragCopyPaste\bin\Debug\DragCopyPaste.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\DragCopyPaste\bin\Debug\DragCopyPaste.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.Properties.Resources.resources
+E:\Projects\ZHPAT_Test\DragCopyPaste\bin\Debug\DragCopyPaste.exe
+E:\Projects\ZHPAT_Test\DragCopyPaste\bin\Debug\DragCopyPaste.pdb
+E:\Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.Form1.resources
+E:\Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.Properties.Resources.resources
+E:\Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.exe
+E:\Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.pdb
+E:\C#_Projects\ZHPAT_Test\DragCopyPaste\bin\Debug\DragCopyPaste.exe
+E:\C#_Projects\ZHPAT_Test\DragCopyPaste\bin\Debug\DragCopyPaste.pdb
+E:\C#_Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.Form1.resources
+E:\C#_Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.Properties.Resources.resources
+E:\C#_Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#_Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#_Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.exe
+E:\C#_Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.pdb
+E:\C__Projects\ZHPAT_Test\DragCopyPaste\bin\Debug\DragCopyPaste.exe
+E:\C__Projects\ZHPAT_Test\DragCopyPaste\bin\Debug\DragCopyPaste.pdb
+E:\C__Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.Form1.resources
+E:\C__Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.Properties.Resources.resources
+E:\C__Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.csproj.GenerateResource.Cache
+E:\C__Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.exe
+E:\C__Projects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.pdb
+E:\CSharpProjects\ZHPAT_Test\DragCopyPaste\bin\Debug\DragCopyPaste.exe
+E:\CSharpProjects\ZHPAT_Test\DragCopyPaste\bin\Debug\DragCopyPaste.pdb
+E:\CSharpProjects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.exe
+E:\CSharpProjects\ZHPAT_Test\DragCopyPaste\obj\x86\Debug\DragCopyPaste.pdb

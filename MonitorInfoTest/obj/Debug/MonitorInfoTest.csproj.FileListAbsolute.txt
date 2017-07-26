@@ -1,0 +1,6 @@
+E:\CSharpProjects\ZHPAT_Test\MonitorInfoTest\bin\Debug\MonitorInfoTest.exe
+E:\CSharpProjects\ZHPAT_Test\MonitorInfoTest\bin\Debug\MonitorInfoTest.pdb
+E:\CSharpProjects\ZHPAT_Test\MonitorInfoTest\obj\Debug\MonitorInfoTest.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\MonitorInfoTest\obj\Debug\MonitorInfoTest.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\MonitorInfoTest\obj\Debug\MonitorInfoTest.exe
+E:\CSharpProjects\ZHPAT_Test\MonitorInfoTest\obj\Debug\MonitorInfoTest.pdb

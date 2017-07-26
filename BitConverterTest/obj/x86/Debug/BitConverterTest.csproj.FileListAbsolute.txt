@@ -1,0 +1,36 @@
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\BitConverterTest\bin\Debug\BitConverterTest.exe
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\BitConverterTest\bin\Debug\BitConverterTest.pdb
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.Form1.resources
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.exe
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.pdb
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.exe.licenses
+E:\Projects\ZHPAT_Test\BitConverterTest\bin\Debug\BitConverterTest.exe
+E:\Projects\ZHPAT_Test\BitConverterTest\bin\Debug\BitConverterTest.pdb
+E:\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.Form1.resources
+E:\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.Properties.Resources.resources
+E:\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.exe.licenses
+E:\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.exe
+E:\Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.pdb
+E:\C#_Projects\ZHPAT_Test\BitConverterTest\bin\Debug\BitConverterTest.exe
+E:\C#_Projects\ZHPAT_Test\BitConverterTest\bin\Debug\BitConverterTest.pdb
+E:\C#_Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.Form1.resources
+E:\C#_Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.Properties.Resources.resources
+E:\C#_Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#_Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#_Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.exe.licenses
+E:\C#_Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.exe
+E:\C#_Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.pdb
+E:\C__Projects\ZHPAT_Test\BitConverterTest\bin\Debug\BitConverterTest.exe
+E:\C__Projects\ZHPAT_Test\BitConverterTest\bin\Debug\BitConverterTest.pdb
+E:\C__Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.Form1.resources
+E:\C__Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.Properties.Resources.resources
+E:\C__Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.csproj.GenerateResource.Cache
+E:\C__Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.exe.licenses
+E:\C__Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.exe
+E:\C__Projects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.pdb

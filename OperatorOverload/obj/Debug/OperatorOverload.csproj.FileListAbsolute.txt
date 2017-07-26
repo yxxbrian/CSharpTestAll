@@ -1,0 +1,6 @@
+E:\CSharpProjects\ZHPAT_Test\OperatorOverload\obj\Debug\OperatorOverload.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\OperatorOverload\obj\Debug\OperatorOverload.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\OperatorOverload\bin\Debug\OperatorOverload.exe
+E:\CSharpProjects\ZHPAT_Test\OperatorOverload\bin\Debug\OperatorOverload.pdb
+E:\CSharpProjects\ZHPAT_Test\OperatorOverload\obj\Debug\OperatorOverload.exe
+E:\CSharpProjects\ZHPAT_Test\OperatorOverload\obj\Debug\OperatorOverload.pdb

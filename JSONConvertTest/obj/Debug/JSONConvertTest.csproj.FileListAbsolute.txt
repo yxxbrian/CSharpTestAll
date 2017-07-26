@@ -1,0 +1,7 @@
+E:\CSharpProjects\ZHPAT_Test\JSONConvertTest\obj\Debug\JSONConvertTest.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\JSONConvertTest\obj\Debug\JSONConvertTest.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\JSONConvertTest\bin\Debug\JSONConvertTest.exe
+E:\CSharpProjects\ZHPAT_Test\JSONConvertTest\bin\Debug\JSONConvertTest.pdb
+E:\CSharpProjects\ZHPAT_Test\JSONConvertTest\obj\Debug\JSONConvertTest.exe
+E:\CSharpProjects\ZHPAT_Test\JSONConvertTest\obj\Debug\JSONConvertTest.pdb
+E:\CSharpProjects\ZHPAT_Test\JSONConvertTest\obj\Debug\JSONConvertTest.csprojResolveAssemblyReference.cache

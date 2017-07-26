@@ -1,0 +1,57 @@
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\SharpGLTextureWinform\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.Form1.resources
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.Properties.Resources.resources
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\SharpGLTextureWinform\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\SharpGLTextureWinform\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.exe.config
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.exe
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.pdb
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\SharpGLTextureWinform\bin\Debug\SharpGL.dll
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.exe
+D:\project\DJI_Plane\OpenGLDemo\SharpGLWinformsApplication2\SharpGLWinformsApplication2\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.exe.config
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.pdb
+E:\Projects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.exe.config
+E:\Projects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.exe
+E:\Projects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.pdb
+E:\Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.Form1.resources
+E:\Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.Properties.Resources.resources
+E:\Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.exe
+E:\Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.pdb
+E:\C#_Projects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.exe.config
+E:\C#_Projects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.exe
+E:\C#_Projects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.pdb
+E:\C#_Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.Form1.resources
+E:\C#_Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.Properties.Resources.resources
+E:\C#_Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#_Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#_Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.exe
+E:\C#_Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.pdb
+E:\C__Projects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.exe.config
+E:\C__Projects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.exe
+E:\C__Projects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.pdb
+E:\C__Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.csprojResolveAssemblyReference.cache
+E:\C__Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.Form1.resources
+E:\C__Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.Properties.Resources.resources
+E:\C__Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.csproj.GenerateResource.Cache
+E:\C__Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.exe
+E:\C__Projects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.pdb
+E:\CSharpProjects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.exe.config
+E:\CSharpProjects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.exe
+E:\CSharpProjects\ZHPAT_Test\SharpGLTextureWinform\bin\Debug\SharpGLTextureWinform.pdb
+E:\CSharpProjects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.exe
+E:\CSharpProjects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.pdb
+E:\CSharpProjects\ZHPAT_Test\SharpGLTextureWinform\obj\x86\Debug\SharpGLTextureWinform.csprojResolveAssemblyReference.cache

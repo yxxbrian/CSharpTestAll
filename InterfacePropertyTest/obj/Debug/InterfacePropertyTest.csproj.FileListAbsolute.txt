@@ -1,0 +1,7 @@
+E:\CSharpProjects\ZHPAT_Test\InterfacePropertyTest\obj\Debug\InterfacePropertyTest.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\InterfacePropertyTest\obj\Debug\InterfacePropertyTest.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\InterfacePropertyTest\obj\Debug\InterfacePropertyTest.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\InterfacePropertyTest\bin\Debug\InterfacePropertyTest.exe
+E:\CSharpProjects\ZHPAT_Test\InterfacePropertyTest\bin\Debug\InterfacePropertyTest.pdb
+E:\CSharpProjects\ZHPAT_Test\InterfacePropertyTest\obj\Debug\InterfacePropertyTest.exe
+E:\CSharpProjects\ZHPAT_Test\InterfacePropertyTest\obj\Debug\InterfacePropertyTest.pdb

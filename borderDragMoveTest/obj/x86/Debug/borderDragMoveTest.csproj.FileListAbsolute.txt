@@ -1,0 +1,12 @@
+E:\C__Projects\ZHPAT_Test\borderDragMoveTest\obj\x86\Debug\borderDragMoveTest.Properties.Resources.resources
+E:\C__Projects\ZHPAT_Test\borderDragMoveTest\obj\x86\Debug\borderDragMoveTest.csproj.GenerateResource.Cache
+E:\C__Projects\ZHPAT_Test\borderDragMoveTest\bin\Debug\borderDragMoveTest.exe
+E:\C__Projects\ZHPAT_Test\borderDragMoveTest\bin\Debug\borderDragMoveTest.pdb
+E:\C__Projects\ZHPAT_Test\borderDragMoveTest\obj\x86\Debug\borderDragMoveTest.exe
+E:\C__Projects\ZHPAT_Test\borderDragMoveTest\obj\x86\Debug\borderDragMoveTest.pdb
+E:\CSharpProjects\ZHPAT_Test\borderDragMoveTest\bin\Debug\borderDragMoveTest.exe
+E:\CSharpProjects\ZHPAT_Test\borderDragMoveTest\bin\Debug\borderDragMoveTest.pdb
+E:\CSharpProjects\ZHPAT_Test\borderDragMoveTest\obj\x86\Debug\borderDragMoveTest.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\borderDragMoveTest\obj\x86\Debug\borderDragMoveTest.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\borderDragMoveTest\obj\x86\Debug\borderDragMoveTest.exe
+E:\CSharpProjects\ZHPAT_Test\borderDragMoveTest\obj\x86\Debug\borderDragMoveTest.pdb

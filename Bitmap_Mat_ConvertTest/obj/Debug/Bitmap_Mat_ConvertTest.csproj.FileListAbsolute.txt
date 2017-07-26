@@ -1,0 +1,7 @@
+E:\CSharpProjects\ZHPAT_Test\Bitmap_Mat_ConvertTest\bin\Debug\Bitmap_Mat_ConvertTest.exe
+E:\CSharpProjects\ZHPAT_Test\Bitmap_Mat_ConvertTest\bin\Debug\Bitmap_Mat_ConvertTest.pdb
+E:\CSharpProjects\ZHPAT_Test\Bitmap_Mat_ConvertTest\obj\Debug\Bitmap_Mat_ConvertTest.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\Bitmap_Mat_ConvertTest\obj\Debug\Bitmap_Mat_ConvertTest.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\Bitmap_Mat_ConvertTest\obj\Debug\Bitmap_Mat_ConvertTest.exe
+E:\CSharpProjects\ZHPAT_Test\Bitmap_Mat_ConvertTest\obj\Debug\Bitmap_Mat_ConvertTest.pdb
+E:\CSharpProjects\ZHPAT_Test\Bitmap_Mat_ConvertTest\obj\Debug\Bitmap_Mat_ConvertTest.csprojResolveAssemblyReference.cache

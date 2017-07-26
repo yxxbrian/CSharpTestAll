@@ -1,0 +1,64 @@
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\StyleTestForm\bin\Debug\StyleTestForm.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\StyleTestForm\bin\Debug\StyleTestForm.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.exe.licenses
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\StyleTestForm\bin\Debug\myskin.dll
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\StyleTestForm\bin\Debug\myskin_new.dll
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.XtraForm1.resources
+E:\Projects\ZHPAT_Test\StyleTestForm\bin\Debug\StyleTestForm.exe
+E:\Projects\ZHPAT_Test\StyleTestForm\bin\Debug\StyleTestForm.pdb
+E:\Projects\ZHPAT_Test\StyleTestForm\bin\Debug\myskin.dll
+E:\Projects\ZHPAT_Test\StyleTestForm\bin\Debug\myskin_new.dll
+E:\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.Form1.resources
+E:\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.Properties.Resources.resources
+E:\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.XtraForm1.resources
+E:\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.exe.licenses
+E:\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.exe
+E:\Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.pdb
+E:\C#_Projects\ZHPAT_Test\StyleTestForm\bin\Debug\StyleTestForm.exe
+E:\C#_Projects\ZHPAT_Test\StyleTestForm\bin\Debug\StyleTestForm.pdb
+E:\C#_Projects\ZHPAT_Test\StyleTestForm\bin\Debug\myskin.dll
+E:\C#_Projects\ZHPAT_Test\StyleTestForm\bin\Debug\myskin_new.dll
+E:\C#_Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.Form1.resources
+E:\C#_Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.Properties.Resources.resources
+E:\C#_Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.XtraForm1.resources
+E:\C#_Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#_Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#_Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.exe.licenses
+E:\C#_Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.exe
+E:\C#_Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.pdb
+E:\C__Projects\ZHPAT_Test\StyleTestForm\bin\Debug\StyleTestForm.exe
+E:\C__Projects\ZHPAT_Test\StyleTestForm\bin\Debug\StyleTestForm.pdb
+E:\C__Projects\ZHPAT_Test\StyleTestForm\bin\Debug\myskin.dll
+E:\C__Projects\ZHPAT_Test\StyleTestForm\bin\Debug\myskin_new.dll
+E:\C__Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.csprojResolveAssemblyReference.cache
+E:\C__Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.Form1.resources
+E:\C__Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.Properties.Resources.resources
+E:\C__Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.XtraForm1.resources
+E:\C__Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.csproj.GenerateResource.Cache
+E:\C__Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.exe.licenses
+E:\C__Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.exe
+E:\C__Projects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.pdb
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\bin\Debug\StyleTestForm.exe
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\bin\Debug\StyleTestForm.pdb
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\bin\Debug\DevExpress.Data.v11.1.dll
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\bin\Debug\DevExpress.Utils.v11.1.dll
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\bin\Debug\myskin.dll
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\bin\Debug\myskin_new.dll
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\bin\Debug\DevExpress.Data.v11.1.xml
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\bin\Debug\DevExpress.Utils.v11.1.xml
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.XtraForm1.resources
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.exe.licenses
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.exe
+E:\CSharpProjects\ZHPAT_Test\StyleTestForm\obj\x86\Debug\StyleTestForm.pdb

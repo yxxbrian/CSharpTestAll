@@ -1,0 +1,39 @@
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\PictureBox_AVI_Display\bin\Debug\PictureBox_AVI_Display.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\PictureBox_AVI_Display\bin\Debug\PictureBox_AVI_Display.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.pdb
+E:\Projects\ZHPAT_Test\PictureBox_AVI_Display\bin\Debug\PictureBox_AVI_Display.exe
+E:\Projects\ZHPAT_Test\PictureBox_AVI_Display\bin\Debug\PictureBox_AVI_Display.pdb
+E:\Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.Form1.resources
+E:\Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.Properties.Resources.resources
+E:\Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.exe
+E:\Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.pdb
+E:\C#_Projects\ZHPAT_Test\PictureBox_AVI_Display\bin\Debug\PictureBox_AVI_Display.exe
+E:\C#_Projects\ZHPAT_Test\PictureBox_AVI_Display\bin\Debug\PictureBox_AVI_Display.pdb
+E:\C#_Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.Form1.resources
+E:\C#_Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.Properties.Resources.resources
+E:\C#_Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#_Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#_Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.exe
+E:\C#_Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.pdb
+E:\C__Projects\ZHPAT_Test\PictureBox_AVI_Display\bin\Debug\PictureBox_AVI_Display.exe
+E:\C__Projects\ZHPAT_Test\PictureBox_AVI_Display\bin\Debug\PictureBox_AVI_Display.pdb
+E:\C__Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.Form1.resources
+E:\C__Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.Properties.Resources.resources
+E:\C__Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.csproj.GenerateResource.Cache
+E:\C__Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.exe
+E:\C__Projects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.pdb
+E:\CSharpProjects\ZHPAT_Test\PictureBox_AVI_Display\bin\Debug\PictureBox_AVI_Display.exe
+E:\CSharpProjects\ZHPAT_Test\PictureBox_AVI_Display\bin\Debug\PictureBox_AVI_Display.pdb
+E:\CSharpProjects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.exe
+E:\CSharpProjects\ZHPAT_Test\PictureBox_AVI_Display\obj\x86\Debug\PictureBox_AVI_Display.pdb

@@ -1,0 +1,28 @@
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test\bin\Debug\test.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test\bin\Debug\test.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test\obj\x86\Debug\test.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test\obj\x86\Debug\test.Form2.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test\obj\x86\Debug\test.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test\obj\x86\Debug\test.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test\obj\x86\Debug\test.pdb
+E:\Projects\ZHPAT_Test\test\bin\Debug\test.exe
+E:\Projects\ZHPAT_Test\test\bin\Debug\test.pdb
+E:\Projects\ZHPAT_Test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\test\obj\x86\Debug\test.Form1.resources
+E:\Projects\ZHPAT_Test\test\obj\x86\Debug\test.Form2.resources
+E:\Projects\ZHPAT_Test\test\obj\x86\Debug\test.Properties.Resources.resources
+E:\Projects\ZHPAT_Test\test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\ZHPAT_Test\test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\ZHPAT_Test\test\obj\x86\Debug\test.exe
+E:\Projects\ZHPAT_Test\test\obj\x86\Debug\test.pdb
+E:\C#_Projects\ZHPAT_Test\test\bin\Debug\test.exe
+E:\C#_Projects\ZHPAT_Test\test\bin\Debug\test.pdb
+E:\C#_Projects\ZHPAT_Test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\test\obj\x86\Debug\test.Form1.resources
+E:\C#_Projects\ZHPAT_Test\test\obj\x86\Debug\test.Form2.resources
+E:\C#_Projects\ZHPAT_Test\test\obj\x86\Debug\test.Properties.Resources.resources
+E:\C#_Projects\ZHPAT_Test\test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#_Projects\ZHPAT_Test\test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#_Projects\ZHPAT_Test\test\obj\x86\Debug\test.exe
+E:\C#_Projects\ZHPAT_Test\test\obj\x86\Debug\test.pdb

@@ -1,0 +1,9 @@
+E:\C#_Projects\ZHPAT_Test\StringMatchCollectionTest\bin\Debug\StringMatchCollectionTest.exe
+E:\C#_Projects\ZHPAT_Test\StringMatchCollectionTest\bin\Debug\StringMatchCollectionTest.pdb
+E:\C#_Projects\ZHPAT_Test\StringMatchCollectionTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\StringMatchCollectionTest\obj\x86\Debug\StringMatchCollectionTest.Form1.resources
+E:\C#_Projects\ZHPAT_Test\StringMatchCollectionTest\obj\x86\Debug\StringMatchCollectionTest.Properties.Resources.resources
+E:\C#_Projects\ZHPAT_Test\StringMatchCollectionTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#_Projects\ZHPAT_Test\StringMatchCollectionTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#_Projects\ZHPAT_Test\StringMatchCollectionTest\obj\x86\Debug\StringMatchCollectionTest.exe
+E:\C#_Projects\ZHPAT_Test\StringMatchCollectionTest\obj\x86\Debug\StringMatchCollectionTest.pdb

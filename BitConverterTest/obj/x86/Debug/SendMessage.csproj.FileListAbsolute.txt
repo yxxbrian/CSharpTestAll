@@ -1,0 +1,12 @@
+E:\CSharpProjects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\SendMessage.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\SendMessage.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.exe.licenses
+E:\CSharpProjects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.exe
+E:\CSharpProjects\ZHPAT_Test\BitConverterTest\bin\Debug\BitConverterTest.exe
+E:\CSharpProjects\ZHPAT_Test\BitConverterTest\bin\Debug\BitConverterTest.pdb
+E:\CSharpProjects\ZHPAT_Test\BitConverterTest\bin\Debug\DevExpress.Data.v11.1.dll
+E:\CSharpProjects\ZHPAT_Test\BitConverterTest\bin\Debug\DevExpress.Utils.v11.1.dll
+E:\CSharpProjects\ZHPAT_Test\BitConverterTest\bin\Debug\DevExpress.Data.v11.1.xml
+E:\CSharpProjects\ZHPAT_Test\BitConverterTest\bin\Debug\DevExpress.Utils.v11.1.xml
+E:\CSharpProjects\ZHPAT_Test\BitConverterTest\obj\x86\Debug\BitConverterTest.pdb

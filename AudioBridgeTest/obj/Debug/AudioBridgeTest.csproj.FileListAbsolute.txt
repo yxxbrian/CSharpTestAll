@@ -1,0 +1,9 @@
+E:\CSharpProjects\ZHPAT_Test\AudioBridgeTest\bin\Debug\AudioBridgeTest.exe
+E:\CSharpProjects\ZHPAT_Test\AudioBridgeTest\bin\Debug\AudioBridgeTest.pdb
+E:\CSharpProjects\ZHPAT_Test\AudioBridgeTest\obj\Debug\AudioBridgeTest.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\ZHPAT_Test\AudioBridgeTest\obj\Debug\AudioBridgeTest.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\AudioBridgeTest\obj\Debug\AudioBridgeTest.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\AudioBridgeTest\obj\Debug\AudioBridgeTest.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\AudioBridgeTest\obj\Debug\AudioBridgeTest.exe
+E:\CSharpProjects\ZHPAT_Test\AudioBridgeTest\obj\Debug\AudioBridgeTest.pdb
+E:\CSharpProjects\ZHPAT_Test\AudioBridgeTest\bin\Debug\AudioBridgeTest.exe.config

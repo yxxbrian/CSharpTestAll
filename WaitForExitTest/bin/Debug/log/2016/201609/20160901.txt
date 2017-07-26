@@ -1,0 +1,118 @@
+
+ 
+记录时间：2016-09-01 15:49:05,197 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：WaitForExitTest.Form1 property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: dd
+
+ 
+记录时间：2016-09-01 16:04:34,014 
+线程ID:[10] 
+日志级别：  FATAL 
+出错类：OnStartup property: [(null)] - 
+错误描述：System.ComponentModel.Win32Exception (0x80004005): 请求的操作需要提升。
+   在 System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   在 System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   在 WaitForExitTest.Form1.button1_Click(Object sender, EventArgs e) 位置 e:\CSharpProjects\ZHPAT_Test\WaitForExitTest\Form1.cs:行号 37
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 WaitForExitTest.Program.Main() 位置 e:\CSharpProjects\ZHPAT_Test\WaitForExitTest\Program.cs:行号 20
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+ 
+
+ 
+记录时间：2016-09-01 16:05:03,277 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：WaitForExitTest.Form1 property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: dd
+
+ 
+记录时间：2016-09-01 16:07:45,493 
+线程ID:[10] 
+日志级别：  FATAL 
+出错类：OnStartup property: [(null)] - 
+错误描述：System.ComponentModel.Win32Exception (0x80004005): 请求的操作需要提升。
+   在 System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   在 System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   在 WaitForExitTest.Form1.button1_Click(Object sender, EventArgs e) 位置 e:\CSharpProjects\ZHPAT_Test\WaitForExitTest\Form1.cs:行号 38
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 WaitForExitTest.Program.Main() 位置 e:\CSharpProjects\ZHPAT_Test\WaitForExitTest\Program.cs:行号 20
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+ 
+
+ 
+记录时间：2016-09-01 16:10:49,791 
+线程ID:[10] 
+日志级别：  FATAL 
+出错类：Form1 property: [(null)] - 
+错误描述：System.Exception: TUMES
+ 
+
+ 
+记录时间：2016-09-01 16:10:51,439 
+线程ID:[10] 
+日志级别：  FATAL 
+出错类：Form1 property: [(null)] - 
+错误描述：System.Exception: TUMES
+ 
+
+ 
+记录时间：2016-09-01 16:10:54,683 
+线程ID:[10] 
+日志级别：  FATAL 
+出错类：OnStartup property: [(null)] - 
+错误描述：System.ComponentModel.Win32Exception (0x80004005): 请求的操作需要提升。
+   在 System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   在 System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   在 WaitForExitTest.Form1.button1_Click(Object sender, EventArgs e) 位置 e:\CSharpProjects\ZHPAT_Test\WaitForExitTest\Form1.cs:行号 38
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 WaitForExitTest.Program.Main() 位置 e:\CSharpProjects\ZHPAT_Test\WaitForExitTest\Program.cs:行号 20
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+ 

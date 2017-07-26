@@ -1,0 +1,14 @@
+E:\CSharpProjects\ZHPAT_Test\ListBoxBugTEst\bin\Debug\ListBoxBugTEst.exe
+E:\CSharpProjects\ZHPAT_Test\ListBoxBugTEst\bin\Debug\ListBoxBugTEst.pdb
+E:\CSharpProjects\ZHPAT_Test\ListBoxBugTEst\obj\Debug\ListBoxBugTEst.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\ZHPAT_Test\ListBoxBugTEst\obj\Debug\MainWindow.baml
+E:\CSharpProjects\ZHPAT_Test\ListBoxBugTEst\obj\Debug\MainWindow.g.cs
+E:\CSharpProjects\ZHPAT_Test\ListBoxBugTEst\obj\Debug\App.g.cs
+E:\CSharpProjects\ZHPAT_Test\ListBoxBugTEst\obj\Debug\ListBoxBugTEst_MarkupCompile.cache
+E:\CSharpProjects\ZHPAT_Test\ListBoxBugTEst\obj\Debug\ListBoxBugTEst.g.resources
+E:\CSharpProjects\ZHPAT_Test\ListBoxBugTEst\obj\Debug\ListBoxBugTEst.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\ListBoxBugTEst\obj\Debug\ListBoxBugTEst.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\ListBoxBugTEst\obj\Debug\ListBoxBugTEst.exe
+E:\CSharpProjects\ZHPAT_Test\ListBoxBugTEst\obj\Debug\ListBoxBugTEst.pdb
+E:\CSharpProjects\CSharpTestAll\ListBoxBugTEst\obj\Debug\ListBoxBugTEst.exe
+E:\CSharpProjects\CSharpTestAll\ListBoxBugTEst\obj\Debug\ListBoxBugTEst.pdb

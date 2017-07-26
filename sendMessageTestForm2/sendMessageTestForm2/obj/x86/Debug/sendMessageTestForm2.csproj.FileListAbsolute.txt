@@ -1,0 +1,50 @@
+d:\documents\visual studio 2010\Projects\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\sendMessageTestForm2\sendMessageTestForm2\bin\Debug\sendMessageTestForm2.exe
+d:\documents\visual studio 2010\Projects\sendMessageTestForm2\sendMessageTestForm2\bin\Debug\sendMessageTestForm2.pdb
+d:\documents\visual studio 2010\Projects\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.exe
+d:\documents\visual studio 2010\Projects\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.pdb
+d:\documents\visual studio 2010\Projects\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\bin\Debug\sendMessageTestForm2.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\bin\Debug\sendMessageTestForm2.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.pdb
+E:\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\bin\Debug\sendMessageTestForm2.exe
+E:\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\bin\Debug\sendMessageTestForm2.pdb
+E:\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.Form1.resources
+E:\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.Properties.Resources.resources
+E:\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.exe
+E:\Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.pdb
+E:\C#_Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\bin\Debug\sendMessageTestForm2.exe
+E:\C#_Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\bin\Debug\sendMessageTestForm2.pdb
+E:\C#_Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.Form1.resources
+E:\C#_Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.Properties.Resources.resources
+E:\C#_Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#_Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#_Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.exe
+E:\C#_Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.pdb
+E:\C__Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\bin\Debug\sendMessageTestForm2.exe
+E:\C__Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\bin\Debug\sendMessageTestForm2.pdb
+E:\C__Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.Form1.resources
+E:\C__Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.Properties.Resources.resources
+E:\C__Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.csproj.GenerateResource.Cache
+E:\C__Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.exe
+E:\C__Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.pdb
+E:\C__Projects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\bin\Debug\sendMessageTestForm2.exe
+E:\CSharpProjects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\bin\Debug\sendMessageTestForm2.pdb
+E:\CSharpProjects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.exe
+E:\CSharpProjects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.pdb
+E:\CSharpProjects\ZHPAT_Test\sendMessageTestForm2\sendMessageTestForm2\obj\x86\Debug\sendMessageTestForm2.csprojResolveAssemblyReference.cache

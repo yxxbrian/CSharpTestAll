@@ -1,0 +1,58 @@
+d:\documents\visual studio 2010\Projects\test_LCT\test_LCT\bin\Debug\test_LCT.exe
+d:\documents\visual studio 2010\Projects\test_LCT\test_LCT\bin\Debug\test_LCT.pdb
+d:\documents\visual studio 2010\Projects\test_LCT\test_LCT\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\test_LCT\test_LCT\obj\x86\Debug\test_LCT.Form1.resources
+d:\documents\visual studio 2010\Projects\test_LCT\test_LCT\obj\x86\Debug\test_LCT.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\test_LCT\test_LCT\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\test_LCT\test_LCT\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\test_LCT\test_LCT\obj\x86\Debug\test_LCT.exe.licenses
+d:\documents\visual studio 2010\Projects\test_LCT\test_LCT\obj\x86\Debug\test_LCT.exe
+d:\documents\visual studio 2010\Projects\test_LCT\test_LCT\obj\x86\Debug\test_LCT.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test_LCT\bin\Debug\test_LCT.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test_LCT\bin\Debug\test_LCT.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.exe.licenses
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.pdb
+E:\Projects\ZHPAT_Test\test_LCT\bin\Debug\test_LCT.exe
+E:\Projects\ZHPAT_Test\test_LCT\bin\Debug\test_LCT.pdb
+E:\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.Form1.resources
+E:\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.Properties.Resources.resources
+E:\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.exe.licenses
+E:\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.exe
+E:\Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.pdb
+E:\C#_Projects\ZHPAT_Test\test_LCT\bin\Debug\test_LCT.exe
+E:\C#_Projects\ZHPAT_Test\test_LCT\bin\Debug\test_LCT.pdb
+E:\C#_Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.Form1.resources
+E:\C#_Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.Properties.Resources.resources
+E:\C#_Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#_Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#_Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.exe.licenses
+E:\C#_Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.exe
+E:\C#_Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.pdb
+E:\C__Projects\ZHPAT_Test\test_LCT\bin\Debug\test_LCT.exe
+E:\C__Projects\ZHPAT_Test\test_LCT\bin\Debug\test_LCT.pdb
+E:\C__Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.Form1.resources
+E:\C__Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.Properties.Resources.resources
+E:\C__Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.csproj.GenerateResource.Cache
+E:\C__Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.exe.licenses
+E:\C__Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.exe
+E:\C__Projects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.pdb
+E:\CSharpProjects\ZHPAT_Test\test_LCT\bin\Debug\test_LCT.exe
+E:\CSharpProjects\ZHPAT_Test\test_LCT\bin\Debug\test_LCT.pdb
+E:\CSharpProjects\ZHPAT_Test\test_LCT\bin\Debug\DevExpress.Data.v11.1.dll
+E:\CSharpProjects\ZHPAT_Test\test_LCT\bin\Debug\DevExpress.Utils.v11.1.dll
+E:\CSharpProjects\ZHPAT_Test\test_LCT\bin\Debug\DevExpress.Data.v11.1.xml
+E:\CSharpProjects\ZHPAT_Test\test_LCT\bin\Debug\DevExpress.Utils.v11.1.xml
+E:\CSharpProjects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.exe.licenses
+E:\CSharpProjects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.exe
+E:\CSharpProjects\ZHPAT_Test\test_LCT\obj\x86\Debug\test_LCT.pdb

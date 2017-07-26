@@ -1,0 +1,7 @@
+E:\CSharpProjects\ZHPAT_Test\OperationSys\bin\Debug\OperationSys.exe
+E:\CSharpProjects\ZHPAT_Test\OperationSys\bin\Debug\OperationSys.pdb
+E:\CSharpProjects\ZHPAT_Test\OperationSys\obj\Debug\OperationSys.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\ZHPAT_Test\OperationSys\obj\Debug\OperationSys.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\OperationSys\obj\Debug\OperationSys.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\OperationSys\obj\Debug\OperationSys.exe
+E:\CSharpProjects\ZHPAT_Test\OperationSys\obj\Debug\OperationSys.pdb

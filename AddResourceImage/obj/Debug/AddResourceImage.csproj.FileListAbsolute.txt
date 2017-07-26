@@ -1,0 +1,8 @@
+E:\CSharpProjects\ZHPAT_Test\AddResourceImage\bin\Debug\AddResourceImage.exe
+E:\CSharpProjects\ZHPAT_Test\AddResourceImage\bin\Debug\AddResourceImage.pdb
+E:\CSharpProjects\ZHPAT_Test\AddResourceImage\obj\Debug\AddResourceImage.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\ZHPAT_Test\AddResourceImage\obj\Debug\AddResourceImage.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\AddResourceImage\obj\Debug\AddResourceImage.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\AddResourceImage\obj\Debug\AddResourceImage.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\AddResourceImage\obj\Debug\AddResourceImage.exe
+E:\CSharpProjects\ZHPAT_Test\AddResourceImage\obj\Debug\AddResourceImage.pdb

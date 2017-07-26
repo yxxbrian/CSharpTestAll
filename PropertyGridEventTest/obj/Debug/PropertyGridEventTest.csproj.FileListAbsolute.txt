@@ -1,0 +1,8 @@
+E:\CSharpProjects\ZHPAT_Test\PropertyGridEventTest\bin\Debug\PropertyGridEventTest.exe
+E:\CSharpProjects\ZHPAT_Test\PropertyGridEventTest\bin\Debug\PropertyGridEventTest.pdb
+E:\CSharpProjects\ZHPAT_Test\PropertyGridEventTest\obj\Debug\PropertyGridEventTest.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\PropertyGridEventTest\obj\Debug\PropertyGridEventTest.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\PropertyGridEventTest\obj\Debug\PropertyGridEventTest.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\PropertyGridEventTest\obj\Debug\PropertyGridEventTest.exe
+E:\CSharpProjects\ZHPAT_Test\PropertyGridEventTest\obj\Debug\PropertyGridEventTest.pdb
+E:\CSharpProjects\ZHPAT_Test\PropertyGridEventTest\obj\Debug\PropertyGridEventTest.csprojResolveAssemblyReference.cache

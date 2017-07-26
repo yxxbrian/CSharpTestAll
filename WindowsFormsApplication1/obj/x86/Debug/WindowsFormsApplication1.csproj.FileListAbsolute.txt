@@ -1,0 +1,64 @@
+d:\documents\visual studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+d:\documents\visual studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+d:\documents\visual studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+d:\documents\visual studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+d:\documents\visual studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+d:\documents\visual studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.licenses
+d:\Documents\Visual Studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\obj\x86\Debug\UserControl2.baml
+d:\Documents\Visual Studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\obj\x86\Debug\UserControl2.g.cs
+d:\Documents\Visual Studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1_MarkupCompile.cache
+d:\Documents\Visual Studio 2010\Projects\TestApplicationForATS-LCT\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.g.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.licenses
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Projects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Projects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.licenses
+E:\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\C#_Projects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C#_Projects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C#_Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#_Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#_Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#_Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#_Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.licenses
+E:\C#_Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\C#_Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\C__Projects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C__Projects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C__Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\C__Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\C__Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C__Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\C__Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.licenses
+E:\C__Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\C__Projects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\CSharpProjects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\CSharpProjects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\CSharpProjects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\DevExpress.Data.v11.1.dll
+E:\CSharpProjects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\DevExpress.Utils.v11.1.dll
+E:\CSharpProjects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\DevExpress.Data.v11.1.xml
+E:\CSharpProjects\ZHPAT_Test\WindowsFormsApplication1\bin\Debug\DevExpress.Utils.v11.1.xml
+E:\CSharpProjects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.licenses
+E:\CSharpProjects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\CSharpProjects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\CSharpProjects\ZHPAT_Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

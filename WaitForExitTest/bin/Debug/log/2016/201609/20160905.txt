@@ -1,0 +1,39 @@
+
+ 
+记录时间：2016-09-05 14:47:06,710 
+线程ID:[9] 
+日志级别：  FATAL 
+出错类：Form1 property: [(null)] - 
+错误描述：System.Exception: TUMES
+ 
+
+ 
+记录时间：2016-09-05 15:43:25,248 
+线程ID:[9] 
+日志级别：  FATAL 
+出错类：OnStartup property: [(null)] - 
+错误描述：System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“Form2”。
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.Form.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 WaitForExitTest.Form1.button3_Click(Object sender, EventArgs e) 位置 e:\CSharpProjects\ZHPAT_Test\WaitForExitTest\Form1.cs:行号 53
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 WaitForExitTest.Program.Main() 位置 e:\CSharpProjects\ZHPAT_Test\WaitForExitTest\Program.cs:行号 20
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+ 

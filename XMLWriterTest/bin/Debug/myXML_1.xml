@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookShops>
+  <Book Number="product-001">
+    <Name>西游记</Name>
+    <OtherName>大唐西游转</OtherName>
+    <Author>吴承恩</Author>
+    <Money>220</Money>
+    <Details>
+东胜神州的傲来国花果山的一块巨石孕育出了一只明灵石猴，石猴后来拜须菩提为师后习得了七十二变，具有了通天本领，于是占山为王，自称齐天大圣。</Details>
+  </Book>
+  <Book Number="product-002">
+    <Name>红楼梦</Name>
+    <OtherName>石头记</OtherName>
+    <Author>曹雪芹</Author>
+    <Money>320</Money>
+    <Details>
+女娲炼石补天，所炼之石剩一块未用，弃在大荒山无稽崖青埂峰下。此石“自经煅炼之后灵性已通”，因未被选中补天常悲伤自怨。一日，和尚茫茫大士、道士渺渺真人经过此地。</Details>
+  </Book>
+</BookShops>

@@ -1,0 +1,59 @@
+d:\Documents\Visual Studio 2010\Projects\TestApplicationForATS-LCT\XML_Test\bin\Debug\XML_Test.exe
+d:\Documents\Visual Studio 2010\Projects\TestApplicationForATS-LCT\XML_Test\bin\Debug\XML_Test.pdb
+d:\Documents\Visual Studio 2010\Projects\TestApplicationForATS-LCT\XML_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2010\Projects\TestApplicationForATS-LCT\XML_Test\obj\x86\Debug\XML_Test.Form1.resources
+d:\Documents\Visual Studio 2010\Projects\TestApplicationForATS-LCT\XML_Test\obj\x86\Debug\XML_Test.Properties.Resources.resources
+d:\Documents\Visual Studio 2010\Projects\TestApplicationForATS-LCT\XML_Test\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\Documents\Visual Studio 2010\Projects\TestApplicationForATS-LCT\XML_Test\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\Documents\Visual Studio 2010\Projects\TestApplicationForATS-LCT\XML_Test\obj\x86\Debug\XML_Test.exe
+d:\Documents\Visual Studio 2010\Projects\TestApplicationForATS-LCT\XML_Test\obj\x86\Debug\XML_Test.pdb
+d:\documents\visual studio 2010\Projects\TestApplicationForATS-LCT\XML_Test\obj\x86\Debug\XML_Test.exe.licenses
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\XML_Test\bin\Debug\XML_Test.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\XML_Test\bin\Debug\XML_Test.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.exe.licenses
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.pdb
+E:\Projects\ZHPAT_Test\XML_Test\bin\Debug\XML_Test.exe
+E:\Projects\ZHPAT_Test\XML_Test\bin\Debug\XML_Test.pdb
+E:\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.Form1.resources
+E:\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.Properties.Resources.resources
+E:\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.exe.licenses
+E:\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.exe
+E:\Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.pdb
+E:\C#_Projects\ZHPAT_Test\XML_Test\bin\Debug\XML_Test.exe
+E:\C#_Projects\ZHPAT_Test\XML_Test\bin\Debug\XML_Test.pdb
+E:\C#_Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.Form1.resources
+E:\C#_Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.Properties.Resources.resources
+E:\C#_Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#_Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#_Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.exe.licenses
+E:\C#_Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.exe
+E:\C#_Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.pdb
+E:\C__Projects\ZHPAT_Test\XML_Test\bin\Debug\XML_Test.exe
+E:\C__Projects\ZHPAT_Test\XML_Test\bin\Debug\XML_Test.pdb
+E:\C__Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.Form1.resources
+E:\C__Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.Properties.Resources.resources
+E:\C__Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.csproj.GenerateResource.Cache
+E:\C__Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.exe.licenses
+E:\C__Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.exe
+E:\C__Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.pdb
+E:\C__Projects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\ZHPAT_Test\XML_Test\bin\Debug\XML_Test.exe
+E:\CSharpProjects\ZHPAT_Test\XML_Test\bin\Debug\XML_Test.pdb
+E:\CSharpProjects\ZHPAT_Test\XML_Test\bin\Debug\DevExpress.Data.v11.1.dll
+E:\CSharpProjects\ZHPAT_Test\XML_Test\bin\Debug\DevExpress.Utils.v11.1.dll
+E:\CSharpProjects\ZHPAT_Test\XML_Test\bin\Debug\DevExpress.Data.v11.1.xml
+E:\CSharpProjects\ZHPAT_Test\XML_Test\bin\Debug\DevExpress.Utils.v11.1.xml
+E:\CSharpProjects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.exe.licenses
+E:\CSharpProjects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.exe
+E:\CSharpProjects\ZHPAT_Test\XML_Test\obj\x86\Debug\XML_Test.pdb

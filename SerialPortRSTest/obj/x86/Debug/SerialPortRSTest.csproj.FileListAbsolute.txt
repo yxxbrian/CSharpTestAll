@@ -1,0 +1,39 @@
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\SerialPortRSTest\bin\Debug\SerialPortRSTest.exe
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\SerialPortRSTest\bin\Debug\SerialPortRSTest.pdb
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.Form1.resources
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.exe
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.pdb
+E:\Projects\ZHPAT_Test\SerialPortRSTest\bin\Debug\SerialPortRSTest.exe
+E:\Projects\ZHPAT_Test\SerialPortRSTest\bin\Debug\SerialPortRSTest.pdb
+E:\Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.Form1.resources
+E:\Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.Properties.Resources.resources
+E:\Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.exe
+E:\Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.pdb
+E:\C#_Projects\ZHPAT_Test\SerialPortRSTest\bin\Debug\SerialPortRSTest.exe
+E:\C#_Projects\ZHPAT_Test\SerialPortRSTest\bin\Debug\SerialPortRSTest.pdb
+E:\C#_Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.Form1.resources
+E:\C#_Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.Properties.Resources.resources
+E:\C#_Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#_Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#_Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.exe
+E:\C#_Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.pdb
+E:\C__Projects\ZHPAT_Test\SerialPortRSTest\bin\Debug\SerialPortRSTest.exe
+E:\C__Projects\ZHPAT_Test\SerialPortRSTest\bin\Debug\SerialPortRSTest.pdb
+E:\C__Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.Form1.resources
+E:\C__Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.Properties.Resources.resources
+E:\C__Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.csproj.GenerateResource.Cache
+E:\C__Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.exe
+E:\C__Projects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.pdb
+E:\CSharpProjects\ZHPAT_Test\SerialPortRSTest\bin\Debug\SerialPortRSTest.exe
+E:\CSharpProjects\ZHPAT_Test\SerialPortRSTest\bin\Debug\SerialPortRSTest.pdb
+E:\CSharpProjects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.exe
+E:\CSharpProjects\ZHPAT_Test\SerialPortRSTest\obj\x86\Debug\SerialPortRSTest.pdb

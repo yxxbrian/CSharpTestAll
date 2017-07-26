@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\obj\x86\Debug\String.EmptyIsNUllOrNot.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\obj\x86\Debug\String.EmptyIsNUllOrNot.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\bin\Debug\String.EmptyIsNUllOrNot.exe
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\bin\Debug\String.EmptyIsNUllOrNot.pdb
+D:\Documents\Visual Studio 2010\Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\bin\Debug\String.EmptyIsNUllOrNot.exe
+E:\Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\bin\Debug\String.EmptyIsNUllOrNot.pdb
+E:\Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\obj\x86\Debug\String.EmptyIsNUllOrNot.exe
+E:\Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\obj\x86\Debug\String.EmptyIsNUllOrNot.pdb
+E:\C#_Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\bin\Debug\String.EmptyIsNUllOrNot.exe
+E:\C#_Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\bin\Debug\String.EmptyIsNUllOrNot.pdb
+E:\C#_Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\obj\x86\Debug\String.EmptyIsNUllOrNot.exe
+E:\C#_Projects\ZHPAT_Test\String.EmptyIsNUllOrNot\obj\x86\Debug\String.EmptyIsNUllOrNot.pdb

@@ -1,0 +1,13 @@
+E:\CSharpProjects\ZHPAT_Test\stringTest\bin\Debug\stringTest.exe
+E:\CSharpProjects\ZHPAT_Test\stringTest\bin\Debug\stringTest.pdb
+E:\CSharpProjects\ZHPAT_Test\stringTest\obj\Debug\stringTest.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\stringTest\obj\Debug\stringTest.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\stringTest\obj\Debug\stringTest.exe
+E:\CSharpProjects\ZHPAT_Test\stringTest\obj\Debug\stringTest.pdb
+E:\CSharpProjects\CSharpTestAll\stringTest\obj\Debug\stringTest.exe
+E:\CSharpProjects\CSharpTestAll\stringTest\obj\Debug\stringTest.pdb
+E:\CSharpProjects\CSharpTestAll\stringTest\bin\Debug\stringTest.exe
+E:\CSharpProjects\CSharpTestAll\stringTest\bin\Debug\stringTest.pdb
+E:\CSharpProjects\CSharpTestAll\stringTest\obj\Debug\stringTest.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\CSharpTestAll\stringTest\obj\Debug\stringTest.Properties.Resources.resources
+E:\CSharpProjects\CSharpTestAll\stringTest\obj\Debug\stringTest.csproj.GenerateResource.Cache

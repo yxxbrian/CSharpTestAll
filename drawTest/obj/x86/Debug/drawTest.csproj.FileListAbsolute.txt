@@ -1,0 +1,48 @@
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\drawTest\bin\Debug\drawTest.exe
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\drawTest\bin\Debug\drawTest.pdb
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Form1.resources
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.exe
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.pdb
+d:\documents\visual studio 2010\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Form2.resources
+E:\Projects\ZHPAT_Test\drawTest\bin\Debug\drawTest.exe
+E:\Projects\ZHPAT_Test\drawTest\bin\Debug\drawTest.pdb
+E:\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Form1.resources
+E:\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Form2.resources
+E:\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Properties.Resources.resources
+E:\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.exe
+E:\Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.pdb
+E:\C#_Projects\ZHPAT_Test\drawTest\bin\Debug\drawTest.exe
+E:\C#_Projects\ZHPAT_Test\drawTest\bin\Debug\drawTest.pdb
+E:\C#_Projects\ZHPAT_Test\drawTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#_Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Form1.resources
+E:\C#_Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Form2.resources
+E:\C#_Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Properties.Resources.resources
+E:\C#_Projects\ZHPAT_Test\drawTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#_Projects\ZHPAT_Test\drawTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#_Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.exe
+E:\C#_Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.pdb
+E:\C__Projects\ZHPAT_Test\drawTest\bin\Debug\drawTest.exe
+E:\C__Projects\ZHPAT_Test\drawTest\bin\Debug\drawTest.pdb
+E:\C__Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Form1.resources
+E:\C__Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Form2.resources
+E:\C__Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Properties.Resources.resources
+E:\C__Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.csproj.GenerateResource.Cache
+E:\C__Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.exe
+E:\C__Projects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.pdb
+E:\CSharpProjects\ZHPAT_Test\drawTest\bin\Debug\drawTest.exe
+E:\CSharpProjects\ZHPAT_Test\drawTest\bin\Debug\drawTest.pdb
+E:\CSharpProjects\ZHPAT_Test\drawTest\bin\Debug\DevExpress.Data.v11.1.dll
+E:\CSharpProjects\ZHPAT_Test\drawTest\bin\Debug\DevExpress.Utils.v11.1.dll
+E:\CSharpProjects\ZHPAT_Test\drawTest\bin\Debug\DevExpress.Data.v11.1.xml
+E:\CSharpProjects\ZHPAT_Test\drawTest\bin\Debug\DevExpress.Utils.v11.1.xml
+E:\CSharpProjects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Form1.resources
+E:\CSharpProjects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Form2.resources
+E:\CSharpProjects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.Properties.Resources.resources
+E:\CSharpProjects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.csproj.GenerateResource.Cache
+E:\CSharpProjects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.exe
+E:\CSharpProjects\ZHPAT_Test\drawTest\obj\x86\Debug\drawTest.pdb
